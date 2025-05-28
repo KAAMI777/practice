@@ -3,6 +3,10 @@ using namespace std;
 
 int main(){
     
-    cout<<"hellow "<<endl;
+    for (int i = 0; i < 10; i++)
+    {
+        cout<<"thanks"<<endl;
+    }
+    
     return 0;
 }
